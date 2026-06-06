@@ -25,3 +25,8 @@ This project INDEED contains vibed-codes. I also would like to declare that have
 
 
 ### Happy Learning and best wishes for your 12th boards!
+
+For queries regarding the repo, contact below:
+- Email [annomy9257@gmail.com](mailto:annomy9257@gmail.com)
+- Discord [annomy9257](https://discord.com/users/918776896727179284)
+- Instagram [annomy9257](https://www.instagram.com/annomy9257)
