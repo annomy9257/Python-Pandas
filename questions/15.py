@@ -11,3 +11,7 @@ shakya_marks = pd.DataFrame(shakya_data)
 
 print(shakya_marks.sort_values(by="Score", ascending=False).head(2))
 print(shakya_marks.sort_values(by="Score").head(3))
+
+"""
+OUTPUT:
+"""

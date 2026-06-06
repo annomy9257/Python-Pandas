@@ -12,3 +12,7 @@ for i in range(5):
 
 shakya_s = pd.Series(shakya_lst)
 print(shakya_s[shakya_s % 2 != 0].sum())
+
+"""
+OUTPUT:
+"""

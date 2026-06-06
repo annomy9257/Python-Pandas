@@ -7,3 +7,11 @@ import pandas as pd
 
 shakya_s = pd.Series([11, 22, 33, 44, 55, 66, 77])
 print(shakya_s.tail(3))
+
+"""
+OUTPUT:
+2    30
+3    40
+4    50
+dtype: int64
+"""

@@ -15,3 +15,7 @@ array_data = np.array([[10, 20], [30, 40], [50, 60]])
 df_array = pd.DataFrame(array_data, columns=["X", "Y"])
 print("\nDataFrame from ndarray:")
 print(df_array)
+
+"""
+OUTPUT:
+"""

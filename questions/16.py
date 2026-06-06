@@ -13,3 +13,7 @@ sk = {
 
 countries = pd.DataFrame(sk)
 print(countries)
+
+"""
+OUTPUT:
+"""
