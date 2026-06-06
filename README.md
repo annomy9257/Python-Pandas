@@ -9,6 +9,7 @@ This repository consists of 20 questions and individual files for all of the que
 - `questions/` -> Contains all the files of the 20 questions
 - `questions/assets` -> Contains assets like `data.csv` to import data from the file. It is not necessary for you to create such file, I created it to organize the files.
 
+- `.gitignore` -> Ignore it totally
 - `LICENSE` -> License of the repository (ignore it)
 - `requirements.txt` -> Contains all the modules/packages that you need to install to run the codes (you may ignore this too)
 
