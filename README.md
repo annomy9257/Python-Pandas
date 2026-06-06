@@ -17,7 +17,7 @@ Look it the folder `questions`, click on it and you will see files like `1.py` a
 
 ### Vibe-coding
 This repository has been created on 6th June, 2026, hence please do not complaint about "Vibe-coding". At this moment, every developer/coder vibe codes to save their time.
-This project INDEED contains vibed-codes. I also would like to declare that have 0 expertise on pandas and hence do not ask me any question about it.
+This project INDEED contains vibed-codes. I also would like to declare that have 0 expertise on pandas and hence do not ask me any question about it :)
 
 ### Dependencies
 - Python v3 or above
@@ -26,7 +26,7 @@ This project INDEED contains vibed-codes. I also would like to declare that have
 
 ### Happy Learning and best wishes for your 12th boards!
 
-For queries regarding the repo, contact below:
+For queries regarding the repository, contact below:
 - Email [annomy9257@gmail.com](mailto:annomy9257@gmail.com)
 - Discord [annomy9257](https://discord.com/users/918776896727179284)
 - Instagram [annomy9257](https://www.instagram.com/annomy9257)
