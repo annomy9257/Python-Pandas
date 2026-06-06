@@ -6,6 +6,9 @@ Series.
 
 import pandas as pd
 
-lst = [int(x) for x in input().split()]
-s = pd.Series(lst)
-print(s[s % 2 != 0].sum())
+shakya_lst = []
+for i in range(5):
+    shakya_lst.append(int(input()))
+
+shakya_s = pd.Series(shakya_lst)
+print(shakya_s[shakya_s % 2 != 0].sum())
