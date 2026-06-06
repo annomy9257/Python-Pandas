@@ -13,3 +13,12 @@ print(df.sum())
 
 # 2. Column with the lowest mean
 print(df.mean().idxmin())
+
+"""
+OUTPUT:
+Maths      263
+Science    240
+English    276
+dtype: int64
+Science
+"""

@@ -15,3 +15,14 @@ df = pd.DataFrame(data)
 
 print(df.head(3))
 print(df.tail(2))
+
+"""
+OUTPUT:
+   Roll_No    Name  Marks
+0      101    Amit     85
+1      102  Bhavna     92
+2      103  Chetan     78
+   Roll_No   Name  Marks
+3      104  Divya     95
+4      105   Esha     88
+"""
