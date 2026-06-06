@@ -16,4 +16,9 @@ print(countries)
 
 """
 OUTPUT:
+         Country           Capital  Population
+0          India         New Delhi  1440000000
+1  United States  Washington, D.C.   341000000
+2          Japan             Tokyo   124000000
+3        Germany            Berlin    84000000
 """

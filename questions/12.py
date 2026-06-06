@@ -8,11 +8,17 @@ import pandas as pd
 
 shakya_lst = []
 for i in range(5):
-    shakya_lst.append(int(input()))
+    shakya_lst.append(int(input("Enter a number: ")))
 
 shakya_s = pd.Series(shakya_lst)
-print(shakya_s[shakya_s % 2 != 0].sum())
+print("Sum of odd numbers:", shakya_s[shakya_s % 2 != 0].sum())
 
 """
 OUTPUT:
+Enter a number: 1
+Enter a number: 2
+Enter a number: 3
+Enter a number: 4
+Enter a number: 5
+Sum of odd numbers: 9
 """

@@ -14,4 +14,11 @@ print(shakya_marks.sort_values(by="Score").head(3))
 
 """
 OUTPUT:
+   Score
+3     95
+1     92
+   Score
+5     61
+6     70
+2     78
 """
